@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI _alculator", "GUI _alculator\GUI _alculator.csproj", "{ABF06CBE-8859-4DB2-AF67-AB4421286CA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI _Calculator", "GUI _alculator\GUI _Calculator.csproj", "{ABF06CBE-8859-4DB2-AF67-AB4421286CA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
