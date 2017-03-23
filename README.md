@@ -5,7 +5,7 @@
 
 ###Folders:
 - lab_1: Version Control Systems (Git)
-- lab_2: 
+- lab_2: GUI Calculator
 - lab_3: 
 - lab_4: 
 - lab_5:

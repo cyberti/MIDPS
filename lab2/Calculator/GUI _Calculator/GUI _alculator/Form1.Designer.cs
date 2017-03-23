@@ -173,7 +173,6 @@
             this.button0.TabIndex = 10;
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = false;
-            this.button0.Click += new System.EventHandler(this.buttonNumber_Click);
             // 
             // point
             // 
