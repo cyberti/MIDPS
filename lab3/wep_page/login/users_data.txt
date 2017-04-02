@@ -1,0 +1,9 @@
+email|password|name|surname|age|sex
+cyber|1234|Godonoaga|Cristian|21|Masculin
+test@rim.ru|1234|TEST|test|100|Masculin
+adriana@mail.ru|123456|Blanuta|Adriana|21|Female
+danil@gmail.com|123456|Daniel|Blanuta|25|Male
+alisa@email.ru|123456|Alisa|Samuil|25|Male
+test@mail.ru|123456|test|test|25|test
+amarfiieug@yandex.ru|123456|Eugenia|Amarfii|23|Female
+

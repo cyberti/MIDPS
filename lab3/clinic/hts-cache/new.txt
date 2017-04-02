@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:14:14	721/721	U-----	200	untouched ('OK')	text/plain	etag:%2256c44d53-2d1%22	http://www.clinica-sante.md/robots.txt		(from )
-15:14:14	28361/28361	U--MCZ	200	updated ('OK')	text/html	date:Sun,%2026%20Mar%202017%2012:14:15%20GMT	http://www.clinica-sante.md/acces-pacienti/	E:/Education/UTM%20(FCIM)/OneDrive%20-%20Technical%20University%20of%20Moldova/TI-153/Anul%202/Simestru%202/MIDPS/lab3/clinic/index-2.html	(from )
