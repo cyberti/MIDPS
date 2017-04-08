@@ -25,14 +25,30 @@ $title="Learn&amp;YOU";
 <body>
 <?php
 
-require_once("views/header.php");;
-require_once ("views/footer.php");
+require_once("views/header.php");
 ?>
+
 <div>
-    <div style="border: 1px solid #333;">
+    <div class="show_border" style="margin: 0 auto; width: 1200px"">
         dsadasd
     </div>
 </div>
+
+<?php
+require_once ("views/footer.php");
+
+?>
+
+<script>
+    window.onload = function () {
+        var remember_pass = document.getElementById('queri_12');
+
+        remember_pass.onclick = function () {
+            alert('Adati aminte!');
+            console.log(this);
+        }
+    }
+</script>
 
 
 </body>

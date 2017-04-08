@@ -1,5 +1,5 @@
 <?php @session_start(); ?>
-<header id="main_header">
+<header id="main_header" style="">
 		<div class="esential_block">
 			<div class="head_block">
 				<!-- Site logo -->
@@ -34,12 +34,14 @@
 											 <div>
 												<div class="uiInputLabel clearfix uiInputLabelLegacy">
 													<input id="persist_box" type="checkbox" name="persistent" value="1" tabindex="3" class="uiInputLabelInput uiInputLabelCheckbox">
-													<label for="persist_box" class="uiInputLabelLabel">memorizează-mă</label>
+													<label for="persist_box" class="active_link uiInputLabelLabel">memorizează-mă</label>
 												</div>
 											<!--<input type="hidden" name="default_persistent" value="0">-->
 											 </div>
 											</td>
-											<td class="login_form_label_field"><a href="#">Ai uitat parola?</a></td>
+											<td class="login_form_label_field">
+                                                <a href="#" class="active_link" id="queri_12">Ai uitat parola?</a>
+                                            </td>
 										</tr>
 									</tbody>
 								</table>
