@@ -4,7 +4,7 @@
 			<div class="head_block">
 				<!-- Site logo -->
 				<div class="logo_style_block">
-					<h1> <a class="logo_style_text" href="index.php" title="Go to home page">Learn&amp;do</a></h1>
+					<h1> <a class="logo_style_text" href="index.php" title="Go to home page">Shop online</a></h1>
 				</div>
 
 					<ul class="menu_bar">

@@ -9,8 +9,8 @@
 
 <link rel="stylesheet" href="/views/baner/slider_style.css">
 
-<div style="height: 500px">
-    <div class="slider-container">
+<div style="height: 350px; width: 1200px; margin: 0 auto;">
+    <div class="slider-container" style="box-shadow: -2px 3px 7px rgba(14, 14, 14, 0.32);">
         <div class="slider-control left inactive"></div>
         <div class="slider-control right"></div>
         <ul class="slider-pagi"></ul>
