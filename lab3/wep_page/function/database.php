@@ -9,7 +9,7 @@ error_reporting(0);
 
 function db_connect(){
     //$mysqli = new mysqli("mysql4.000webhost.com","a5440718_test","a123456","a5440718_test") or die("Error: ".mysqli_error($mysqli));
-    $mysqli = mysqli_connect("mysql4.000webhost.com","a5440718_test","a123456","a5440718_test") or die("Error: 500345"/*.mysqli_connect_error()*/);
+    $mysqli = mysqli_connect("localhost","id1433533_root","258456","id1433533_users") or die("Error: 500345"/*.mysqli_connect_error()*/);
     //$mysqli = mysqli_connect("127.0.0.1","root","","a5440718_test") or die("Error: 500345"/*.mysqli_connect_error()*/);
     $mysqli -> query("SET NAMES 'utf8'") or die(print_r("Error: 500346"/*.mysqli_error($mysqli)*/));
     $mysqli -> query("SET CHARACTER SET utf8") or die(print_r("Error: 500347"/*.mysqli_error($mysqli)*/));

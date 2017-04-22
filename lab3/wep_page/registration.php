@@ -10,7 +10,18 @@ session_start();
 $title="Pagina de inregistrare";
 $link=$_SERVER['HTTP_REFERER'];
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><?=@$title?></title>
+    <link href="http://allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/style.css">
 
+</head>
+
+
+<body>
 <?php
 if($_SESSION['user_data']){
     $_SESSION['error_mess']='Dumnevoastra sunteti deja inregistrati si nu puteti accesa pagina de inregistrare';

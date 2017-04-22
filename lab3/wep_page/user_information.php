@@ -14,6 +14,18 @@ if(empty($_SESSION['user_data'])){
 }
 ?>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><?=@$title?></title>
+    <link href="http://allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/style.css">
+
+</head>
+
+
+<body>
 <?php
 require_once("views/structur.php");
 require_once("views/header.php");
@@ -55,3 +67,6 @@ require_once("views/new_user.php");
     </form>
 </div>
 -->
+
+</body>
+</html>

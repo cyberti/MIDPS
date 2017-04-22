@@ -45,15 +45,15 @@
                 <td colspan="2" class="footer_title">Payment</td>
             </tr>
             <tr>
-                <td><img src="Credit_Card_Icons/PNG/01_Color/64/WorldPay.png"></td>
+                <td><img src="/img/Credit_Card_Icons/PNG/01_Color/64/WorldPay.png"></td>
                 <td><a href="#" class="active_link">Payment Methods Help</a> </td>
             </tr>
             <tr>
-                <td><img src="Credit_Card_Icons/PNG/01_Color/64/PayPal.png"></td>
+                <td><img src="/img/Credit_Card_Icons/PNG/01_Color/64/PayPal.png"></td>
                 <td><a href="#" class="active_link">Shop with Points</a> </td>
             </tr>
             <tr>
-                <td><img src="Credit_Card_Icons/PNG/01_Color/64/Maestro.png"></td>
+                <td><img src="/img/Credit_Card_Icons/PNG/01_Color/64/Maestro.png"></td>
                 <td><a href="#" class="active_link">Gift Cards</a> </td>
             </tr>
         </table>
@@ -95,7 +95,7 @@
                     <address>
                         <a href="mailto:webmaster@example.com" class="active_link">Send message</a><br>
                         Call:+37322123456<br>
-                        Example.com<br>
+                        learn_and_do@mail.com<br>
                         Box 564, Disneyland<br>
                         USA
                     </address>

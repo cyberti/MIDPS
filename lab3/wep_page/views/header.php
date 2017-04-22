@@ -34,7 +34,7 @@
 											 <div>
 												<div class="uiInputLabel clearfix uiInputLabelLegacy">
 													<input id="persist_box" type="checkbox" name="persistent" value="1" tabindex="3" class="uiInputLabelInput uiInputLabelCheckbox">
-													<label for="persist_box" class="active_link uiInputLabelLabel">memorizează-mă</label>
+													<label for="persist_box" class="active_link uiInputLabelLabel" style="cursor: pointer;" >memorizează-mă</label>
 												</div>
 											<!--<input type="hidden" name="default_persistent" value="0">-->
 											 </div>

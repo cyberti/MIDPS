@@ -16,18 +16,16 @@ $title="Learn&amp;YOU";
 <head>
     <meta charset="UTF-8">
     <title><?=@$title?></title>
-    <link href="http://allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />
+<!--    <link href="http://allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />-->
     <link rel="stylesheet" href="style.css">
 
 </head>
 
 
 <body>
-<?php
+<?php require_once("views/header.php"); ?>
 
-require_once("views/header.php");
-?>
-
+<?php require_once("views/baner/baner.php"); ?>
 <div>
     <div class="show_border" style="margin: 0 auto; width: 1200px"">
         dsadasd
@@ -53,3 +51,4 @@ require_once ("views/footer.php");
 
 </body>
 </html>
+
