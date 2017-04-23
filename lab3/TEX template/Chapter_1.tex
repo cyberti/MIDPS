@@ -17,8 +17,8 @@
 
 In aceasta lucrare de laborator a fost realizat un site web. Pe parcursul implementarii acestuia sa utilizat mai multe tehnici de programare (limbaje), Mysql pentru baza de date, JS si AJAX pentru informatie si interactiune dinamica.
 Insa prima de toate a fost realizat mockupul care este ca un concept al produsului final (\emph{\url{www.wireframe.cc/bU44mU}}). \\
-In baza de date se va pastra toata informatia despre utilizatorii inregistrati, si pentru ca utilizatorii sa poate inregistra individual a mai fost realizata si o forma de inrefistrare unde fiecare introduce datele personale. \\
-Nu am uitat nici de faptul existentei persoanelor rau facatoare. Pentru asta fiecare informatie introdusa de ei va trece asa numita o bariera care am creato pentru ai limita si a le bloca intentiile. Fiecare cimp este controlat in continutul care il detina, cortectitudinea acestuia, lungime si tipul caracterelor cu ajutorul urmatoarei proceduri:
+In baza de date se va pastra toata informatia despre utilizatorii inregistrati, si pentru ca utilizatorii sa poate inregistra individual a mai fost realizata si o forma de inregistrare unde fiecare introduce datele personale. \\
+Nu am uitat nici de faptul existentei persoanelor rau facatoare. Pentru asta fiecare informatie introdusa de ei va trece asa numita o bariera care am creato pentru ai limita si a le bloca intentiile. Fiecare cimp este controlat in continutul care il detine, cortectitudinea acestuia, lungime si tipul caracterelor cu ajutorul urmatoarei proceduri:
 \begin{verbatim}
 function clean($value = "") {
 $value = trim($value);
