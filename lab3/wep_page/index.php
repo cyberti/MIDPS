@@ -16,8 +16,11 @@ $title="Shop online";
 <head>
     <meta charset="UTF-8">
     <title><?=@$title?></title>
-    <link href="http://allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/views/baner/slider_style.css">
+    <link href="//allfont.net/allfont.css?fonts=matura-mt-script-capitals" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="style.css">
+
+
 
 </head>
 
